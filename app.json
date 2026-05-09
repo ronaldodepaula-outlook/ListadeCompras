@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "CompraFácil",
+    "slug": "comprafacil",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1B5E20"
+      }
+    },
+    "plugins": [
+      "expo-asset",
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "4b6f80b8-2dd0-4c47-898d-010fa1abd75a"
+      }
+    }
+  }
+}

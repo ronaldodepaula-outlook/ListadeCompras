@@ -1,0 +1,71 @@
+nome,categoria,marca,unidade,codigo_barras,descricao
+Leite Integral,Laticínios,Ninho,L,7891000100103,Leite integral UHT 1L
+Leite Desnatado,Laticínios,Parmalat,L,7896034015759,Leite desnatado UHT 1L
+Iogurte Natural,Laticínios,Danone,un,7891025101764,Iogurte natural integral 170g
+Queijo Mussarela,Laticínios,Polenghi,kg,7891080400026,Queijo mussarela fatiado
+Manteiga com Sal,Laticínios,Aviação,un,7891515901011,Manteiga com sal 200g
+Arroz Branco Tipo 1,Grãos,Tio João,kg,7891234567890,Arroz branco tipo 1 5kg
+Arroz Integral,Grãos,Camil,kg,7896006700009,Arroz integral tipo 1 1kg
+Feijão Carioca,Grãos,Camil,kg,7896006716476,Feijão carioca tipo 1 1kg
+Feijão Preto,Grãos,Kicaldo,kg,7896005412013,Feijão preto tipo 1 1kg
+Lentilha,Grãos,Yoki,kg,7891095100459,Lentilha 500g
+Macarrão Espaguete,Massas,Barilla,pct,7613035137028,Macarrão espaguete 500g
+Macarrão Parafuso,Massas,Adria,pct,7896000000015,Macarrão parafuso 500g
+Farinha de Trigo,Farináceos,Dona Benta,kg,7896004400101,Farinha de trigo especial 1kg
+Farinha de Mandioca,Farináceos,Yoki,kg,7891095100428,Farinha de mandioca torrada 500g
+Amido de Milho,Farináceos,Maisena,pct,7891000053508,Amido de milho 400g
+Açúcar Cristal,Açúcar,União,kg,7891910000197,Açúcar cristal branco 1kg
+Açúcar Refinado,Açúcar,Guarani,kg,7891910000210,Açúcar refinado especial 1kg
+Açúcar Mascavo,Açúcar,Native,kg,7896496905011,Açúcar mascavo orgânico 500g
+Café Torrado Moído,Bebidas,Pilão,pct,7896089010079,Café torrado e moído 500g
+Café Solúvel,Bebidas,Nescafé,un,7891000053447,Café solúvel original 200g
+Chá Preto,Bebidas,Lipton,cx,7891098010028,Chá preto 25 sachês
+Suco de Laranja,Bebidas,Del Valle,L,7894321719015,Suco de laranja integral 1L
+Refrigerante Cola,Bebidas,Coca-Cola,L,7894900700015,Refrigerante cola 2L
+Água Mineral,Bebidas,Crystal,L,7891098025015,Água mineral sem gás 1,5L
+Azeite de Oliva,Óleos,Gallo,L,5601252008209,Azeite de oliva extravirgem 500ml
+Óleo de Soja,Óleos,Soya,L,7896000596218,Óleo de soja refinado 900ml
+Vinagre de Álcool,Óleos,Heinz,L,7896102501200,Vinagre de álcool branco 750ml
+Sal Refinado,Temperos,Cisne,kg,7891022801027,Sal refinado iodado 1kg
+Pimenta do Reino,Temperos,Kitano,un,7891095700018,Pimenta do reino moída 30g
+Alho Granulado,Temperos,Kitano,un,7891095700025,Alho granulado 30g
+Molho de Tomate,Conservas,Pomarola,un,7896036099699,Molho de tomate tradicional 520g
+Extrato de Tomate,Conservas,Elefante,un,7896034006016,Extrato de tomate 340g
+Milho Verde,Conservas,Bonduelle,un,7891705005018,Milho verde em conserva 170g
+Ervilha,Conservas,Bonduelle,un,7891705003014,Ervilha em conserva 170g
+Sardinha,Conservas,Coqueiro,un,7896009301027,Sardinha em óleo 125g
+Atum,Conservas,Gomes da Costa,un,7891167021013,Atum em óleo 170g
+Pão de Forma,Padaria,Wickbold,un,7896072300024,Pão de forma integral 500g
+Biscoito Cream Cracker,Snacks,Nestlé,pct,7891000247809,Biscoito cream cracker 200g
+Biscoito Recheado,Snacks,Oreo,pct,7622201483419,Biscoito recheado chocolate 144g
+Cereal Matinal,Matinal,Kellogg's,pct,7896017002218,Cereal matinal granola 300g
+Aveia em Flocos,Matinal,Quaker,pct,7891203010104,Aveia em flocos finos 500g
+Chocolate em Pó,Matinal,Nestlé,pct,7891000051023,Chocolate em pó 50% cacau 400g
+Margarina,Laticínios,Qualy,un,7891515902018,Margarina sem sal 500g
+Creme de Leite,Laticínios,Nestlé,un,7891000100196,Creme de leite 300g
+Leite Condensado,Laticínios,Moça,un,7891000100042,Leite condensado 395g
+Frango Inteiro,Carnes,Sadia,kg,7896085025038,Frango inteiro congelado
+Peito de Frango,Carnes,Perdigão,kg,7896085025045,Peito de frango sem osso congelado
+Carne Moída,Carnes,Friboi,kg,7896085025052,Carne moída bovina congelada
+Linguiça Calabresa,Frios,Sadia,kg,7896085001048,Linguiça calabresa defumada
+Presunto Fatiado,Frios,Seara,kg,7896085025069,Presunto cozido fatiado
+Maionese,Condimentos,Hellmann's,un,7891000100103,Maionese cremosa 500g
+Ketchup,Condimentos,Heinz,un,7896102501101,Ketchup tradicional 397g
+Mostarda,Condimentos,Hemmer,un,7896085001010,Mostarda amarela 200g
+Detergente Líquido,Limpeza,Ypê,un,7896098900128,Detergente neutro 500ml
+Sabão em Pó,Limpeza,Omo,pct,7891152400014,Sabão em pó multiação 1kg
+Amaciante,Limpeza,Downy,L,7500435141253,Amaciante concentrado 1L
+Desinfetante,Limpeza,Pinho Sol,L,7896098900111,Desinfetante pinho 500ml
+Água Sanitária,Limpeza,Qboa,L,7891175000010,Água sanitária 1L
+Papel Higiênico,Higiene,Neve,un,7891172300012,Papel higiênico folha dupla 12 rolos
+Shampoo,Higiene,Pantene,un,7501007452157,Shampoo hidratação 400ml
+Condicionador,Higiene,Seda,un,7891150066018,Condicionador ceramidas 325ml
+Sabonete,Higiene,Lux,un,7891150066025,Sabonete hidratante 85g
+Pasta de Dente,Higiene,Colgate,un,7509546050094,Pasta de dente proteção 90g
+Desodorante,Higiene,Rexona,un,7509546050100,Desodorante antitranspirante 150ml
+Absorvente,Higiene,Always,pct,7500435039306,Absorvente com abas noturno 8un
+Fralda Infantil,Bebê,Pampers,pct,7500435039313,Fralda descartável M 36un
+Sabão de Coco,Limpeza,Barra,un,7891025101757,Sabão de coco em barra 200g
+Esponja de Cozinha,Limpeza,Bombril,un,7891152400021,Esponja de aço 60g
+Rodo,Limpeza,MOR,un,,Rodo cabo longo 60cm
+Vassoura,Limpeza,Bettanin,un,,Vassoura nylon pelo médio
