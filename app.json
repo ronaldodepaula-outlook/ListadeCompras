@@ -15,10 +15,6 @@
       "package": "com.ronaldodepaulasurf11.comprafacil",
       "versionCode": 1
     },
-    "plugins": [
-      "expo-asset",
-      "expo-font"
-    ],
     "extra": {
       "eas": {
         "projectId": "4b6f80b8-2dd0-4c47-898d-010fa1abd75a"
